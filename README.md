@@ -1,2 +1,1 @@
-# itsme
-.
+just a guy.
